@@ -49,9 +49,9 @@ This project analyzes the Kaggle Amazon consumer behavior dataset from **[Swathi
 ---
 
 ### Visualizations (Power BI)  
-📌 **[Heatmap of Purchase Categories Across Genders]** – Displays the most common purchase categories among genders.  
-📌 **[Pie Chart of Search Methods that Lead to Cart Completion]** – Displays a percentage breakdown of the main search methods that lead to a purchase.  
-📌 **[Stacked Bar Chart of Cart Abandonment Factors by Gender and Age Range]** – Displays factors leading to cart abandonment by gender and age range from 18 to 65.
+📌 **Heatmap of Purchase Categories Across Genders** – Displays the most common purchase categories among genders.  
+📌 **Pie Chart of Search Methods that Lead to Cart Completion** – Displays a percentage breakdown of the main search methods that lead to a purchase.  
+📌 **Stacked Bar Chart of Cart Abandonment Factors by Gender and Age Range** – Displays factors leading to cart abandonment by gender and age range from 18 to 65.
 
 ---
 
