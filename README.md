@@ -1,4 +1,4 @@
-# Amazon Customer Behavior Trend Analysis
+# Analyzing Amazon Customer Behavior: Trends in Shopping & Cart Abandonment
 
 ## Project Overview  
 This project analyzes the Kaggle Amazon consumer behavior dataset from **[Swathi Menon](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset)**. The goal was to gain insights into customer behavior when shopping, uncover trends that lead to incomplete transactions, relationships among genders and age ranges that influence shopping, and provide actionable insights. These insights could be used to optimize advertising and app features to reduce cart abandonment and increase completed transactions on Amazon.
